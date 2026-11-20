@@ -5,7 +5,7 @@ GAIA benchmark evaluation and submission agent for **Hugging Face Agents Course 
 ## Quickstart
 ```bash
 pip install -r requirements.txt
-export HF_TOKEN="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"
+export HF_TOKEN="HFAKkYWSHQ6bKSlPSPz417V65QJ9mC6"
 export HF_USERNAME="princess38827"
 python app.py
 
